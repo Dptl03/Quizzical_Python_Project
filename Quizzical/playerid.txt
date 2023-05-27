@@ -1,0 +1,8 @@
+id,password,email
+Divya,Divya123,pateldivya0312@gmail.com
+Deval,Deval123,deval135darji@gmail.com
+Pihu,Pihu1234,ps.pihu.9@gmail.com
+Rana,Rana1234,hrishikeshrana1723@gmail.com
+Wow,Wowwow12,deval135darji@gmail.com
+Newuser,Newuser1,deval135darji@gmail.com
+test,Test1234,deval135darji@gmail.com

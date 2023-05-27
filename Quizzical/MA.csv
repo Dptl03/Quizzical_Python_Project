@@ -1,0 +1,101 @@
+Index,Question,A,B,C,D,answer
+1,1.Presentation  2.Recommendation  3. Arrival  4.Discussion  5.Introduction,"5, 3, 4, 1, 2","3, 5, 4, 2, 1","3, 5, 1, 4, 2","5, 3, 1, 2, 4",3
+2,"4, 18, ?, 100, 180, 294, 448",48,50,58,60,1
+3,In a certain code language COMPUTER is written as RFUVQNPC. How will MEDICINE be written in that code language?,MFEDJJOE,EOJDEJFM,MFEJDJOE,EOJDJEFM,4
+4,Which letter in this alphabet is the eighth letter to the right of the letter and  which is tenth letter to the left of the last but one letter of the alphabet?,x,w,i,h,2
+5,"A is B's sister. C is B's mother. D is C's father. E is D's mother. Then, how is A related to D?",Grandfather,Grandmother,Daughter,Granddaughter,4
+6,"How many pairs of letters are there in the word "" CASTRAPHONE"" which have as many letters between them in the word as in the alphabet?",3,4,5,6,4
+7,"Find the wrong number in the series. 1, 2, 6, 15, 31, 56, 91",31,15,56,91,4
+8,"3, 5, 5, 19, 7, 41, 9, ?",71,61,79,69,1
+9,132       156       ?         210          240          272 ,196,182,199,204,2
+10,1. Abandon  2. Actuate  3. Accumulate  4. Acquit   5. Achieve (Alphabetically last),Actuate,Accumulate,Acquit,Achieve,1
+11,A A B A B C A B C D A B C D E A B C D,A,E,C,B,2
+12,"A and B are a married couple, A being the male member. D is the only son of C, who is the brother of A. E is the sister of D. B is the daughter-in-law of F, whose husband has died. How is E related to C ? ",Sister,Daughter,Cousin,Mother,2
+13,5  9  3  2  1  7  4  2  6  9  7  4  6  1  3  2  8  7  4  1  3  8  3  2  5  6  7  4  3  9  5  8  2  0  1  8  7  4  6  3 (How many 4's are there preceded by 7 but not followed by 3?),Four,Three,Six,Five,1
+14,"In a row of boys, If A who is 10th from the left and B who is 9th from the right interchange their positions, A becomes 15th from the left. How many boys are there in the row ?",23,31,27,28,1
+15,"If South-East becomes North, North-East becomes West and so on. What will West become?",North-East,North-West,South-East,South-West,3
+16,"Pointing to a person, a man said to a woman, ""His mother is the only daughter of your father."" How was the woman related to the person ? ",Aunt,Mother,Wife,Daughter,1
+17,"If Z = 52 and ACT = 48, then BAT will be equal to",39,41,44,46,4
+18,"8, 27, 125, 343, 1381 (Find the wrong no)",27,8,343,1381,4
+19,Which letter is in the middle of 13th letter from the left and 4th letter from the right?,r,i,j,s,1
+20,Cup : Lip :: Bird : ?,Grass,Forest ,Beak,Bush,1
+21,A girl introduced a boy as the son of' the daughter of the father of her uncle. The boy is girl's ,Brother,Son,Uncle,Son-in-law,1
+22,"If ROSE is coded as 6821, CHAIR is coded as 73456 and PREACH is coded as 961473, what will be the code for SEARCH ?",246173,214673,214763,216473,2
+23,Two bus tickets from city A to B and three tickets from city A to C cost Rs. 77 but three tickets from city A to B and two tickets from city A to C cost Rs. 73. What are the fares for cities B and C from A ?,"Rs. 4, Rs. 23","Rs. 13, Rs. 17","Rs. 15, Rs. 14","Rs. 17, Rs. 13",2
+24,"There are six persons A. B, C, D, E and F. C is the sister of F. B is the brother of E's husband. D is the father of A and grandfather of F. There are two fathers, three brothers and a mother in the group. Who is the mother ?",A,B,C,E,4
+25,"If one is subtracted from each of the numbers, which of the following will be the fourth to the right of the tenth from the right ? (Q 2 3 B 9 V 5 L S R F P)",4,8,2,1,1
+26,Rasik walked 20 m towards north. Then he turned right and walks 30 m. Then he turns right and walks 35 m. Then he turns left and walks 15 m. Finally he turns left and walks 15 m. In which direction and how many metres is he from the starting position?,15 m West,30 m East,30 m West,45 m East,4
+27,"If the positions of the first and the third alphabets of each of the words are interchanged, which of the following would form a meaningful word in the new arrangement? (LAP  BUT  CAR  SON  HID)",HID,SON,Both LAP and BUT,Both CAR and LAP,3
+28,"If FRIEND is coded as HUMJTK, how is CANDLE written in that code ?",EDRIRL,DCQHQK,ESJFME,DEQJQM,1
+29,Vaunt : Flaunt :: Disparate : ?,Similar,Homogenous,Contrast,Alike,1
+30,If the first half of English alphabet is reversed and the second half of the English alphabet is left undisturbed then which letter will be 10th to the left of 16th letter from the left?,h,f,z,u,1
+31,"In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code ?",SHFDQ,HFDSQ,RSAFD,QDFHS,4
+32,"A woman introduces a man as the son of the brother of her mother. How is the man, related to the woman ? ",Nephew,Son,Cousin,Uncle to Grandson,3
+33,If the second half of the English alphabet is reversed then which letter will be 4th to the right of 20th letter from the right?,u,k,e,f,2
+34,Biped : Quadruped :: Ostrich : ?,Cat,Kangaroo,Penguin,Duck,1
+35,"Interchange Signs + and - , numbers 4 and 8.",4 + 8 - 12 = 12,4 - 8 + 12 = 0,8 + 4 - 12 = 24,8 - 4 + 12 = 8,2
+36,How many such pairs of digits are there in the number 421579368 each of which has as many digits between them in the number as when they are arranged in ascending order?,None,One,Two,Three,4
+37,"Given Sequence : N O P Q Y B Z A R S H I J K L M T U V G F E W X D C NDP ,  QWB ,  ZFR ,  ?",SVI,AFS,IVS,SFA,1
+38,Countries which _________ still undergoing the economic processes _________ known as developing countries.,"are, are","are, is","is, are","were, are",1
+39,"1, 2, 3, 10, ?, 9802",99,199,299,999,1
+40,Which letter is in the middle between the ninth letter from the right and eighth letter from the left in the given alphabets?,n,o,l,m,4
+41,"Looking at a portrait of a man, Harsh said, ""His mother is the wife of my father's son. Brothers and sisters I have none."" At whose portrait was Harsh looking? ",His son,His cousin,His uncle,His nephew,1
+42,"11, 17, 39, 85, ?",133,143,153,163,3
+43,"In a certain code language, '3a, 2b, 7c' means 'Truth is Eternal'; '7c, 9a, 8b, 3a' means 'Enmity is not Eternal'  and '9a, 4d, 2b, 8b' means 'Truth does not perish'. Which of the following means 'enmity' in that language ?",3a,7c,8b,9a,3
+44,"If all the A's are dropped from the above arrangement, which of the following will be eleventh from the left end of the above arrangement? (C U B A E D E D A B E B A U C D B C A D B D U B C A C B E D A )",E,C,D,U,4
+45,"21, 77, 165, 285, ......",404,415,426,437,4
+46,How many times 3 comes in 1 to 100,11,18,20,21,3
+47,"Pointing to a lady, a man said, ""The son of her only brother is the brother of my wife."" How is the lady related to the man ?",Mother's sister,Grandmother,Mother-in-law,Sister of father-in-law,4
+48,How many pairs of letters in the word 'CHAIRS' have as many letters between them in the word as in the alphabet? ,2,3,1,4,1
+49,Grass : Erosion :: Dam : ?,Water,Freeze,Current,Rain,1
+50,P is the brother of Q and R. S is R's mother. T is P's father. Which of the following statements cannot be definitely true ? ,T is Q's father,S is P's mother,P is S's son,Q is T's son,4
+51,Paw : Cat :: Hoof : ?,Donkey,Lion,Elephant,Horse,4
+52,"3, 8, 15, 24, 34, 48, 63 (Find the worng number)",15,24,34,48,3
+53,"Pointing out to a lady, a girl said, ""She is the daughter-in-law of the grandmother of my father's only son."" How is the lady related to the girl ?",Sister-in-law,Mother,Aunt,Can't be determined,4
+54,Lethargic : Vital :: Trite : ?,Unique,Slug,Lazy,Skinny,1
+55,If Z= 2197 and R= 729. How would J be written in that code?,216,124,512,125,4
+56,A E C B % 7 D $ E B 5 C ? 3 D E 9 @ 2 #  (If all the vowels are dropped from the above arrangement which of the following will be the twelth from the left end of the above arrangement?),3,@,D,9,3
+57,"A, Z, Y, B, C, ?, W, D",E,Z,X,F,3
+58,Sam ranked 9th from the top and 38th from the bottom in a class. How many students are there in the class ?,45,46,47,48,2
+59,a) Mahinder  b) Mahender  c) Mahindra  d) Mahendra  e) Mohinder (last in telephone dictionary),Mahinder,Mahindra,Mohinder,Mahender,3
+60,"Introducing a man, a woman said, 'He is the only son of my mother's mother."" How is the woman related to the man ?",Mother,Aunt,Sister,Niece,4
+61,Extreme old age when a man behaves like a fool,Superannuation,Imbecility,Senility,Dotage,4
+62,Rahul put his timepiece on the table in such a way that at 6 P.M. hour hand points to North. In which direction the minute hand will point at 9.15 P.M. ?,South-East,South,North,West,4
+63,"K is 40 m South-West of L. If M is 40 m South-East of L, then M is in which direction of K?",East,West,North-East,South,1
+64,"625, 625, 600, ?, 475, 875",545,700,675,725,2
+65,"If air is called green , green is called blue, blue is called sky, sky is called yellow, yellow is called water and water is called pink, then what is the color of clear sky ?",Blue,Sky,Yellow,Water,2
+66,Find out the two signs to be interchanged for making following equation correct (5 + 3 x 8 - 12 / 4 =3),+ and -,- and /,#NAME?,+ and /,2
+67,Fumble is to Finesse as Malign is to,Slander,Extol,Criticize,Assurance,2
+68,"A is father of C and D is son of B. E is brother of A. If C is sister of D, how is B related to E ? ",Daughter,Brother,Husband, Sister-in-law,4
+69,Choose the Antonym of the given word from the following options 'Jettison',Salvage,Submerge,Repent,Descend,1
+70,Exhibit : display :: send : ?,Stamp,Receive,Show,Emit,4
+71,Choose the word which gives similar meaning to the given word from the following options. (Autopsy),Diagnosis,Rebuild,Manufacture,Postmortem,4
+72,"If in a code language, COULD is written as BNTKC and MARGIN is written as LZQFHM, how will MOULDING be written in that code ?",CHMFINTK,LNKTCHMF,LNTKCHMF,NITKHCMF,3
+73,"A man said to a lady, ""Your mother's husband's sister is my aunt!! How is the lady related to the man ? ",Daughter,Grand daughter,Mother,Sister,4
+74,6 : 18 :: 4 : ?,14,6,16,8,4
+75,"A is the brother of B. B is the brother of C. D is the father of A. Based on these three statements, which of the following statements cannot be definitely true ?",B is the brother of A.,B is the son of D.,A is the brother of C.,C is the brother of A.,4
+76,A tailor had a number of shirt pieces to cut from a roll of fabric. He cut each roll of equal length into 10 pieces. He cut at the rate of 45 cuts a minute. How many rolls would be cut in 24 minutes ?,32 rolls,54 rolls,108 rolls,120 rolls,4
+77,a person who abstains from alcoholic drinks,Teetotaller,Heretic,Angler,Drunkard,1
+78,"8, 15, 28, 53, ?, 199",101,102,103,104,2
+79,Seismography : Earthquake :: Taseometer : ?,Landslides,Strains,Resistances,Volcanoes,2
+80,"A man is facing north-west. He turns 90o90o in the clockwise direction, then 180o180o in the anticlockwise direction and then another 90o90o in the same direction. Which direction is he facing now?",South,South-west,South-east,East,3
+81,Melt : Liquid :: Freeze : ?,Condense,Solid,Ice,Crystal,2
+82,"2, 3, 10, 39, ?, 885",128,156,172,189,3
+83,"Today is Varun's birthday. One year, from today he will be twice as old as he was 12 years ago. How old is Varun today ?",20 years,22 years,25 years,27 years,3
+84,"If the first five letters of English alphabet are reversed , so are the next five and so on and last letter is left unchanged then what will be 2nd letter to the left of 17th letter from the right?",S,G,H,R,3
+85,"N , O , M , P , L , Q , K , R , ?",S,I,J,T,3
+86,If HAT is coded as 'jcv' then what will GUN be coded as?,iwp,ikm,kip,klp,1
+87,Grain : Stock :: Stick : ?,Bundle,String,Collection,Heap,1
+88,"Rita told Mani, ""The girl I met yesterday at the beach was the youngest daughter of the brother-in-law of my friend's mother."" How is the girl related to Rita's friend ?",Cousin,Daughter,Niece,Friend,1
+89,"Kolkata, Mumbai, Mangalore (choose a similar word)",Hyderabad,Delhi,Cochin,Jaipur,3
+90,"Pointing to a woman, a man said, ""Her father is the only son of my father."" How is the man related to the woman?",Father,Brother,Uncle,Brother-in-law,2
+91,"If MADRAS can be written as NBESBT, how can BOMBAY be written in that code ?",CPNCBX,CPNCBZ,CPOCBZ,CQOCBZ,2
+92,"Pointing to a photograph, a man said, ""I have no brother or sister but that man?s father is my father?s son."" Whose photograph was it?",His uncle's,His nephew's,His son's,His Cousin's,3
+93,How many meaningful English words can be formed with the letters ESRO using each letter only once in each word?,None,One,Two,Three,4
+94,"One morning after sunrise, Suresh was standing facing a pole. The shadow of the pole fell exactly to his right. To which direction was he facing?",East,West,South,Data is inadequate,3
+95,Yard is to Fence as Cell is to,Mitochondria,Cytoplasm,Membrane,Nucleus,3
+96,"Acording to a military code, SYSTEM is SYSMET and NEARER is AENRER. What is the code for FRACTION ?",CARFTINO,CARFTION,ARFCNOIT,CARFNOIT,4
+97,The dog was sitting _______ the table waiting _______ catch the ball that was thrown ________ him _________ his master.,"below, for, to, by","under, for, towards, by","up, to, towards, by","under, to, towards, by",4
+98,Transition : Change :: Immobility :  ?,Stillness,Liveliness,Action,Busyness,1
+99,"7, 28, 63, 124, 215, 342, 511 (find the wrong number)",28,124,215,342,1
+100,Essential Part for the given word from the following options. (Respiration),Oxygen,Carbon monoxide,Mouth,Circulation,1

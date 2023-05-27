@@ -1,0 +1,16 @@
+Name           Question Points  Total Points      Time      Topic
+Deval               800            1084.41        15.59     Sports
+Deval               0              277.92         22.08     Music
+Deval               375            646.54         28.46     Hindi
+Deval               0              278.32         21.68     Hindi
+Deval               125            406.65         18.35     Travel
+Deval               250            535.19         14.81     Literature
+Deval               0              575.51         24.49     GK
+Deval               125            714.84         10.16     English
+Divya               0              588.25         11.75     Music
+Divya               275            861.39         13.61     Food
+Divya               250            835.28         14.72     Music
+Rana                125            715.09         9.91      English
+Deval               375            941.57         33.43     English
+Deval               125            713.56         11.44     English
+Deval               125            713.87         11.13     Music
